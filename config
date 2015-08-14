@@ -1,0 +1,6 @@
+[main]
+campaign_file = campaigns_ids.txt
+
+[timer]
+start = 7
+end = 20
